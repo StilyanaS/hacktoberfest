@@ -1,3 +1,9 @@
+#### Name: [Stilyana Stoyanova](https://github.com/StilyanaS)
+
+- Place: Alicante, Alicante, Spain
+- Bio: Junior Frontend developer with experience in SEO
+- GitHub: [StilyanaS]((https://github.com/StilyanaS))
+
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
